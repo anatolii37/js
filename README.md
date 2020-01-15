@@ -1,2 +1,3 @@
 # js
-ok
+test
+test ok
